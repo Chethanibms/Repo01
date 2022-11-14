@@ -11,6 +11,6 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           repo: Repo02
-          owner: Chethan
+          owner: Chethanibms
           event_type: sample_push
   
