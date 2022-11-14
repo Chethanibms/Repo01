@@ -13,3 +13,4 @@ jobs:
           repo: Repo02
           owner: Chethan
           event_type: sample_push
+  
